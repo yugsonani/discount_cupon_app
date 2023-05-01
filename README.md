@@ -1,16 +1,7 @@
-# discount_cupon_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230501-224543](https://user-images.githubusercontent.com/121219334/235496677-50a54b06-990b-45db-b6b4-f13d3400f01c.jpg)
+![Screenshot_20230501-224556](https://user-images.githubusercontent.com/121219334/235496708-5201228b-a8bd-4801-8678-abd87d2ce651.jpg)
+![Screenshot_20230501-224640](https://user-images.githubusercontent.com/121219334/235496808-23775fb5-7cf2-40a2-965f-5fa87e67492f.jpg)
+![Screenshot_20230501-224755](https://user-images.githubusercontent.com/121219334/235496833-59da2d47-544b-4e7f-b978-68a3dd7fc864.jpg)
+![Screenshot_20230501-224644](https://user-images.githubusercontent.com/121219334/235496866-542c57c5-db20-460b-b2a4-031d5b2d26db.jpg)
+![Screenshot_20230501-224650](https://user-images.githubusercontent.com/121219334/235496883-7fc6851b-aeab-4378-8b09-aa41be40e563.jpg)
+![Screenshot_20230501-224731](https://user-images.githubusercontent.com/121219334/235496894-208fbed8-9a1d-4800-b443-6481542c935e.jpg)
